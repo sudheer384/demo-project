@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is second commit
 this is third commit
+=======
+hi good morning
+this is initital commit
+>>>>>>> branch1
